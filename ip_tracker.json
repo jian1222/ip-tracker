@@ -135,6 +135,40 @@
         "asn": "AS4761",
         "org": "INDOSAT Internet Network Provider"
       }
+    },
+    {
+      "ip": "154.18.255.34",
+      "username": "Jian",
+      "timestamp": "2025-08-10T10:22:29.810Z",
+      "details": {
+        "ip": "154.18.255.34",
+        "network": "154.18.255.0/24",
+        "version": "IPv4",
+        "city": "Karawang",
+        "region": "West Java",
+        "region_code": "JB",
+        "country": "ID",
+        "country_name": "Indonesia",
+        "country_code": "ID",
+        "country_code_iso3": "IDN",
+        "country_capital": "Jakarta",
+        "country_tld": ".id",
+        "continent_code": "AS",
+        "in_eu": false,
+        "postal": "",
+        "latitude": -6.30525,
+        "longitude": 107.3197,
+        "timezone": "Asia/Jakarta",
+        "utc_offset": "+0700",
+        "country_calling_code": "+62",
+        "currency": "IDR",
+        "currency_name": "Rupiah",
+        "languages": "id,en,nl,jv",
+        "country_area": 1919440,
+        "country_population": 267663435,
+        "asn": "AS142393",
+        "org": "PT Media Solusi Sukses"
+      }
     }
   ]
 }
