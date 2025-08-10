@@ -101,6 +101,40 @@
         "asn": "AS4761",
         "org": "INDOSAT Internet Network Provider"
       }
+    },
+    {
+      "ip": "114.10.23.93",
+      "username": "Jian",
+      "timestamp": "2025-08-10T07:39:10.954Z",
+      "details": {
+        "ip": "114.10.23.93",
+        "network": "114.10.16.0/21",
+        "version": "IPv4",
+        "city": "Semarang",
+        "region": "Central Java",
+        "region_code": "JT",
+        "country": "ID",
+        "country_name": "Indonesia",
+        "country_code": "ID",
+        "country_code_iso3": "IDN",
+        "country_capital": "Jakarta",
+        "country_tld": ".id",
+        "continent_code": "AS",
+        "in_eu": false,
+        "postal": "50261",
+        "latitude": -7.3036,
+        "longitude": 110.5428,
+        "timezone": "Asia/Jakarta",
+        "utc_offset": "+0700",
+        "country_calling_code": "+62",
+        "currency": "IDR",
+        "currency_name": "Rupiah",
+        "languages": "id,en,nl,jv",
+        "country_area": 1919440,
+        "country_population": 267663435,
+        "asn": "AS4761",
+        "org": "INDOSAT Internet Network Provider"
+      }
     }
   ]
 }
